@@ -118,5 +118,5 @@ link.addEventListener('click', () => {
 const link = document.querySelector('#link')
 link.addEventListener('click', function() {
   // this === link
-})
+});
 ```
